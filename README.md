@@ -1,0 +1,2 @@
+# Efficient-Fine-Tuning-Techniques-for-Deep-Learning-Models
+This repo aims to explore efficient fine-tuning techniques for deep learning models, focusing on reducing the computational and environmental costs associated with training large-scale models. We emphasize methods like Low-Rank Adaptation (LoRA), VeRA, and Quantization, which aim to enhance the fine-tuning process for foundational models.
