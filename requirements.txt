@@ -1,0 +1,13 @@
+transformers
+datasets==2.18.0
+peft
+scikit-learn
+pandas
+Pillow
+matplotlib
+opencv-python
+seaborn
+black
+ipykernel
+opencv-python
+wandb

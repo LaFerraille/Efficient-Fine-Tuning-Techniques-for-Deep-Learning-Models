@@ -1,0 +1,2 @@
+The idea of this folder is to write the Training Loop in a way that it can be used for several models/experiments.
+Training Loop must be able to monitor performances and have early stopping (criterion to be defined I propose validation loss not being better than any given validation loss of the last 3 epochs)

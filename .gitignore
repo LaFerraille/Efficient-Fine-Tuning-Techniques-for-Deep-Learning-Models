@@ -1,0 +1,4 @@
+.vscode/
+Saved_Models/
+*/__pycache__
+*/wandb/
